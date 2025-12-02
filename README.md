@@ -12,7 +12,7 @@ It shows submissions made **on that day** by the entered handle.
 ## 🚀 How to Install
 
 1. Download the latest release ZIP from:  
-   [https://github.com/NooboT244/REPO_NAME/releases](https://github.com/NooboT244/REPO_NAME/releases)
+   [https://github.com/NooboT244/CF-Submission-Searcher/releases](https://github.com/NooboT244/CF-Submission-Searcher/releases)
 
 2. Extract the ZIP.
 
