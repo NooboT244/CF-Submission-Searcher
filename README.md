@@ -16,7 +16,7 @@ It shows submissions made **on that day** by the entered handle.
 
 2. Extract the ZIP.
 
- 3.Open Chrome/Edge and go to:
+ 3. Open Chrome/Edge and go to:
 `chrome://extensions/` (Chrome) or `edge://extensions/` (Edge)
 
 4. Enable **Developer Mode** (top-right corner).
