@@ -1,0 +1,14 @@
+#about {
+    border: 1px dashed darkgray;
+    border-bottom-right-radius: 7px;
+    border-top-right-radius: 7px;
+}
+#TP2{
+    height: 400px;
+    width: 380px;
+    background-color: aliceblue;
+    position: absolute;
+    margin: 7px;
+    bottom: 0%;
+    border-radius: 20px;
+}
