@@ -1,0 +1,11 @@
+/*
+  Copyright (c) 2025 NooboT244 (MD. Rashidul Hasan)
+  Licensed under CC BY-NC-ND 4.0
+  See the LICENSE file in the root of the repository for details.
+*/
+
+#home {
+    border: 1px dashed darkgray;
+    border-bottom-left-radius: 7px;
+    border-top-left-radius: 7px;
+}
